@@ -1,1 +1,1 @@
-# pubg_predictor
+# PUBG Win percentage predictor (ongoing)
